@@ -18,4 +18,5 @@ Ans:- By having branches the workflow is not interrupted. Suppose in a team if t
 		
 • In a project how many remote Git repositories do you usually have?
 Ans:- Usually, there is no such number. Generally we will have one remote repository and the developers 
-	  clone that into local and work on them.
+	  clone that into local and work on them. After finishing the work on their local and after reviewing is done,
+	  then they will merge into the remote.
